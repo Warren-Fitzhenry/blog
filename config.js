@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Warren Fitzhenry',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Software Developer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Warren Fitzhenry',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Developer.',
     contacts: {
       email: '',
       facebook: '#',
