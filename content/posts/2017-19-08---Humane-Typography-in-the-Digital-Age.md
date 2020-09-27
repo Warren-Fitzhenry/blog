@@ -2,7 +2,7 @@
 title: Humane Typography in the Digital Age
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "humane-typography-in-the-digital-age"
 category: "Typography"
 tags:
@@ -59,7 +59,7 @@ Each transition took away a part of humanity from written language. Handwritten 
 	</blockquote>
 </figure>
 
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
+Typefaces don’t look `handmade` `these` days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
 
 > Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
 >

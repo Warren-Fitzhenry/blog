@@ -19,10 +19,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    },
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // },
     {
       label: 'Projects',
       path: '/pages/projects'
@@ -31,17 +31,17 @@ module.exports = {
   author: {
     name: 'Warren Fitzhenry',
     photo: '/photo.jpg',
-    bio: 'Software Developer.',
+    bio: 'Software Developer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'warrenfitzhenry22@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'Warren-Fitzhenry',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '/warren-fitzhenry',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

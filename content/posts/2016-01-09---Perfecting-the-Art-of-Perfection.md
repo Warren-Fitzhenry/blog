@@ -2,7 +2,7 @@
 title: Perfecting the Art of Perfection
 date: "2020-09-01T23:46:37.121Z"
 template: "post"
-draft: false
+draft: true
 slug: "perfecting-the-art-of-perfection"
 category: "JavaScript"
 tags:
