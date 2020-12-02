@@ -7,10 +7,9 @@ https://warrenfitzhenry.netlify.app/
 yarn develop
 
 # To push to production
+git push 
 
-
-
-# TODO List
+# Todo List
 
 Git
 - rename a branch
@@ -27,10 +26,13 @@ Graph Analysis
 - BFS and FS
 - finding cycles in a graph
 - shorted path method
+- targjans algorithm
 
 Canvas Drawing
 - maths (angles, circles, forces and gravity)
 - animations
+- get simple drawings up on gatsby
+- link to source code
 
 General Blog
 - tags 
