@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Software Developer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -48,7 +48,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: ''
     }
   }
 };

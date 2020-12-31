@@ -110,3 +110,8 @@ JupyterLab
 - mini projects are small articles with for example a drawing on a canvas, and some code showing how its done.
 - search box
 - 
+
+
+# Gatsby notes
+
+anything in the pages directory will get a page
